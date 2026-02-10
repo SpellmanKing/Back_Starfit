@@ -16,3 +16,5 @@ public interface AssinaturaRepository extends JpaRepository<Assinatura, Long> {
 }
 
 
+
+
